@@ -1,0 +1,10 @@
+
+for - The for statement is just a compact way to go through a range of values. Rather than having to write a longer chunk of code to decide where to start and stop a loop and how to count through the values, the for statement contains the start point, end point, and defines the increment in a single line.
+
+&&, ||, and ! - These are operators which affect whether a condition is true or false. && compares two statements, if the first is true AND the second is true, then it is true. On the other hand, || says that if the first value OR the second value are true, then the condition is true. ! simply takes a condition and flips it. If a statement is true, ! makes it false. If a statement is true, ! makes it false.
+
+arrays - Arrays are several values grouped together under a single variables. An array can be any type of data. They can be numbers, strings, even an array of arrays. They are commonly used to store groups of related data. For example, say you want to list the things you can do with a basketball while playing. You could make a variable for each action, but it would be easier and more organized to create an array, where the array could contain "pass", "shoot", and "dribble".
+
+git - git is software that lets groups of people work on the same project in an organized manner. It does so by allowing individual users to make copies of a single master project, then work on those copies. When they make changes, they can then submit those changes, where they can be approved by the group prior to the master being changed. By keeping backlogs of previous versions, it also allows the project to back up a step in case a change causes the program not to work properly.
+
+GitHub - GitHub is a way to store your code online, so in case your physical computer crashes, you are able to recover your code. It also provides a forum for users to work as a team without physically working together by utilizing the git software.
