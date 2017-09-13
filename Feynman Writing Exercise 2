@@ -5,7 +5,10 @@ values, the for statement contains the start point, end point, and defines the i
 line.
 
 &&, ||, and ! - These are operators which affect whether a condition is true or false. && compares two
-statements, if the first is true AND the second is true, then it is true. On the other hand, || says that if the first value OR the second value are true, then the condition is true. ! simply takes a condition and flips it. If a statement is true, ! makes it false. If a statement is true, ! makes it false.
+statements, if the first is true AND the second is true, then it is true. On the other hand, || says
+that if the first value OR the second value are true, then the condition is true. ! simply takes a
+condition and flips it. If a statement is true, ! makes it false. If a statement is true, ! makes it
+false.
 
 arrays - Arrays are several values grouped together under a single variables. An array can be any type
 of data. They can be numbers, strings, even an array of arrays. They are commonly used to store groups
